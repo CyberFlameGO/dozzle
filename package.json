@@ -41,7 +41,7 @@
     "lodash.debounce": "^4.0.8",
     "pinia": "^2.0.14",
     "sass": "^1.53.0",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "splitpanes": "^3.1.1",
     "typescript": "^4.7.4",
     "unplugin-auto-import": "^0.9.0",
